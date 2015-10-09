@@ -1,0 +1,19 @@
+
+/**
+ * Write a description of class testclass here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class testclass
+{
+    public static void main(String[] args)
+    {
+        byte[] b;
+        for (int a = 0; a < " ".length(); a++) {
+            b = new byte[1024];
+            b = " ".getBytes();
+        }
+        System.out.println(Integer.toBinaryString(b[0]));
+    }
+}

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=void\ main(java.lang.String)
+comment1.params=k
+comment1.target=boolean\ check(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getK()
+comment3.params=
+comment3.target=void\ promptK()
+comment4.params=array
+comment4.target=void\ printArray(java.lang.String[])
+comment5.params=eight\ key
+comment5.target=java.lang.String\ crypto(java.lang.String,\ java.lang.String)
+comment6.params=g
+comment6.target=void\ test(java.lang.String[])
+numComments=7
